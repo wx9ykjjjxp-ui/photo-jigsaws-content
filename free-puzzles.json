@@ -1,6 +1,8 @@
 [
   {
+    "id": "city01",
     "title": "City 01",
-    "imageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/blob/main/city01.jpg?raw=true"
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/FreeImages/city01.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
   }
 ]

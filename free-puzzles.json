@@ -4,5 +4,11 @@
     "title": "City 01",
     "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/FreeImages/city01.jpg",
     "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
+  },
+  {
+    "id": "seagull",
+    "title": "Seagull",
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/FreeImages/Seagull.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/Seagull.jpg"
   }
 ]

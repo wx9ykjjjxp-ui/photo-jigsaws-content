@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "app": "papis-canvas-puzzles",
+  "categories": [
+    {
+      "id": "cat1",
+      "title": "Free Puzzles",
+      "subtitle": "A selection of free puzzles",
+      "thumbnail": "cat1.jpg",
+      "visible": true,
+      "order": 1,
+      "puzzleIds": ["p001", "p002", "p003"]
+    },
+    {
+      "id": "cat2",
+      "title": "Featured",
+      "subtitle": "Curated highlights",
+      "thumbnail": "cat2.jpg",
+      "visible": true,
+      "order": 2,
+      "puzzleIds": ["p010", "p011"]
+    },
+    {
+      "id": "cat3",
+      "title": "Landscape",
+      "subtitle": "Wide-format photography",
+      "thumbnail": "cat3.jpg",
+      "visible": true,
+      "order": 3,
+      "puzzleIds": ["p020", "p021", "p022"]
+    },
+    {
+      "id": "cat4",
+      "title": "Coming Soon",
+      "subtitle": "More puzzles on the way",
+      "thumbnail": "cat4.jpg",
+      "visible": false,
+      "order": 4,
+      "puzzleIds": []
+    }
+  ]
+}

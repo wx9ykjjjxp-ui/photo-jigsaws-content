@@ -4,39 +4,37 @@
   "categories": [
     {
       "id": "cat1",
-      "title": "Free Puzzles",
-      "subtitle": "A selection of free puzzles",
-      "thumbnail": "cat1.jpg",
+      "title": "cat1",
+      "subtitle": "",
+      "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
+,
       "visible": true,
-      "order": 1,
-      "puzzleIds": ["p001", "p002", "p003"]
+      "order": 1
     },
     {
       "id": "cat2",
-      "title": "Featured",
-      "subtitle": "Curated highlights",
-      "thumbnail": "cat2.jpg",
+      "title": "cat2",
+      "subtitle": "",
+      "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
+,
       "visible": true,
-      "order": 2,
-      "puzzleIds": ["p010", "p011"]
+      "order": 2
     },
     {
       "id": "cat3",
-      "title": "Landscape",
-      "subtitle": "Wide-format photography",
-      "thumbnail": "cat3.jpg",
+      "title": "cat3",
+      "subtitle": "",
+      "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg",
       "visible": true,
-      "order": 3,
-      "puzzleIds": ["p020", "p021", "p022"]
+      "order": 3
     },
     {
       "id": "cat4",
-      "title": "Coming Soon",
-      "subtitle": "More puzzles on the way",
-      "thumbnail": "cat4.jpg",
-      "visible": false,
-      "order": 4,
-      "puzzleIds": []
+      "title": "cat4",
+      "subtitle": "",
+      "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg",
+      "visible": true,
+      "order": 4
     }
   ]
 }

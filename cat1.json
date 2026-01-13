@@ -1,14 +1,26 @@
 [
   {
-    "id": "city01",
-    "title": "City 01",
-    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/FreeImages/city01.jpg",
-    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
+    "id": "cloudy-tarn-hows",
+    "title": "Cloudy Tarn Hows",
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/Cloudy%20Tarn%20Hows.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/thumbnails/CloudyTarnHows.jpg"
   },
   {
-    "id": "seagull",
-    "title": "Seagull",
-    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/FreeImages/Seagull.jpeg",
-    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/TSeagull.jpeg"
+    "id": "rainbow",
+    "title": "Rainbow",
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/Rainbow.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/thumbnails/Rainbow.jpg"
+  },
+  {
+    "id": "the-road",
+    "title": "The Road",
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/The%20Road.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/thumbnails/Theroad.jpg"
+  },
+  {
+    "id": "windermere",
+    "title": "Windermere",
+    "fullImageURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/Windermere.jpg",
+    "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/LakeDistrict/thumbnails/Windermere.jpg"
   }
 ]

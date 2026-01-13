@@ -4,7 +4,7 @@
   "categories": [
     {
       "id": "cat1",
-      "title": "cat1",
+      "title": "Lake Disctrict",
       "subtitle": "",
       "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
 ,
@@ -13,7 +13,7 @@
     },
     {
       "id": "cat2",
-      "title": "cat2",
+      "title": "Blackpool",
       "subtitle": "",
       "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg"
 ,
@@ -22,7 +22,7 @@
     },
     {
       "id": "cat3",
-      "title": "cat3",
+      "title": "Flowers",
       "subtitle": "",
       "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg",
       "visible": true,
@@ -30,7 +30,7 @@
     },
     {
       "id": "cat4",
-      "title": "cat4",
+      "title": "Places",
       "subtitle": "",
       "thumbnailURL": "https://github.com/wx9ykjjjxp-ui/photo-jigsaws-content/raw/refs/heads/main/thumbnails/city01.jpg",
       "visible": true,
